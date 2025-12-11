@@ -1,0 +1,140 @@
+Use the prompt below directly in a website‑builder or AI design tool.  
+Replace anything in [brackets] with your own details if you want.
+
+---
+
+**Prompt to generate website for “Senay Flour Factory”**
+
+You are a senior brand‑focused web designer and copywriter.  
+Create a complete, modern, responsive website (structure, layout ideas, and draft text) for:
+
+**Brand name:** Senay Flour Factory  
+**Industry:** Flour milling / food manufacturing (wheat and grain‑based products)  
+**Location:** [city, country]  
+**Audience:**  
+- B2B: bakeries, food manufacturers, distributors, wholesalers, supermarkets  
+- B2C: retailers and consumers who care about quality, safety, and consistency
+
+---
+
+### 1. Brand & Positioning
+
+- Senay Flour Factory is a reliable, quality‑driven flour producer focused on:
+  - Consistent milling quality and reliable supply
+  - Food safety and international standards
+  - Long‑term partnerships with bakeries, retailers, and distributors
+- Brand personality: professional, trustworthy, modern, food‑safe, approachable.
+- Brand promise: “Consistent flour, dependable supply, better results for every baker.”
+
+**Tone of voice:** clear, confident, warm, expert but never overly technical. Avoid hype; focus on proof, benefits, and trust.
+
+---
+
+### 2. Website Goals
+
+Design the site to:
+1. Build trust and credibility in Senay Flour Factory as a serious industrial producer.  
+2. Present core products and specifications clearly.  
+3. Attract B2B inquiries (distributors, bakeries, manufacturers).  
+4. Highlight quality standards, certifications, and production capacity.  
+5. Make it very easy to contact sales or request a quote.
+
+Include clear CTAs such as:
+- “Request a Quote”
+- “Download Product Specs”
+- “Become a Distributor”
+- “Contact Sales”
+
+---
+
+### 3. Sitemap & Page Structure
+
+Propose a clean navigation with these primary pages:
+
+1. **Home**
+   - Hero section with strong headline, sub‑headline, and background image of flour / wheat / production.
+   - Short intro about Senay Flour Factory.
+   - Key advantages (e.g., quality control, capacity, certifications, logistics).
+   - Featured product categories (e.g., bakery flour, industrial flour, specialty blends).
+   - Logos or badges for certifications (ISO, HACCP, etc. – use placeholders).
+   - Testimonials or short success stories (use realistic sample text).
+   - Strong call‑to‑action to contact sales or request a quote.
+
+2. **About Us**
+   - Story of Senay Flour Factory: [year founded], mission, and vision.
+   - Commitment to farmers and supply chain.
+   - Production capacity, technology, and milling process summarized simply.
+   - Management or leadership overview (no personal data necessary—just roles and values).
+   - Social responsibility or sustainability efforts if relevant.
+
+3. **Products**
+   - Clear product categories (e.g., “Bread Flour,” “Pastry Flour,” “All‑Purpose,” “Industrial & Bulk,” etc.).
+   - For each product: short description, key benefits, typical applications, packaging sizes (retail and bulk), and technical specs placeholder (protein %, ash content, moisture content).
+   - Separate section for **Bulk & Industrial Supply** vs **Retail Packs**, explaining offerings for each audience.
+   - CTA: “Download Full Product Catalog (PDF)” and “Request Technical Data Sheet”.
+
+4. **Quality & Safety**
+   - Explanation of quality control process, lab testing, and traceability.
+   - Certifications (e.g., ISO 22000, HACCP, Halal, etc.; list as placeholders to be edited).
+   - Short “From grain to flour” process graphic or step‑by‑step text.
+   - Emphasis on hygiene, safety, and regulatory compliance.
+
+5. **Industries & Applications**
+   - Sections for different customer types: industrial bakeries, small bakeries, confectionery, pasta producers, supermarkets, wholesalers.
+   - Describe how Senay Flour Factory supports each segment (custom blends, consistent supply, technical support).
+
+6. **Resources / Blog** (optional but recommended)
+   - Example articles: baking tips for commercial bakeries, how to choose the right flour, storage best practices, news about the factory or certifications.
+   - Goal: improve SEO and position the brand as an expert.
+
+7. **Contact / Request a Quote**
+   - Simple contact form with fields for name, company, email, phone, country, type of business, product interest, and approximate volume.
+   - Contact details: phone, email, address, map (placeholder), and business hours.
+   - Option to select “Become a Distributor” with extra fields.
+
+---
+
+### 4. Design Direction
+
+- **Overall style:** clean, professional, industrial‑food aesthetic.
+- **Suggested color palette:**
+  - Primary: deep blue or navy (trust, reliability) – e.g., #1F3A7D  
+  - Secondary: warm wheat/gold (agriculture, flour) – e.g., #DFAF3B  
+  - Accents: soft neutral gray and white backgrounds.
+- **Imagery:**
+  - High‑quality photos of wheat fields, milling processes, laboratories, packaged flour bags, and baking outcomes (bread, pastries).
+  - Avoid cluttered or overly “clip‑arty” visuals.
+- **Typography:**
+  - Headings: modern sans‑serif (e.g., Poppins, Montserrat, or similar).
+  - Body text: easy‑to‑read sans‑serif.
+- **Layout:**
+  - Generous white space, sectioned content, and clear hierarchy.
+  - Prominent CTAs with consistent button style.
+  - Mobile‑first, fully responsive design.
+
+---
+
+### 5. Content & SEO Guidelines
+
+- Write clear, concise copy that:
+  - Emphasizes benefits for bakeries and buyers (consistency, quality, reduced waste, reliable delivery).
+  - Uses simple language, explaining technical terms briefly.
+- Incorporate SEO‑friendly phrases naturally, such as:
+  - “flour manufacturer in [region/country]”
+  - “high quality wheat flour supplier”
+  - “bulk flour for bakeries”
+  - “industrial flour production”
+- Include meta title and meta description suggestions for each main page.
+
+---
+
+### 6. Deliverables
+
+Provide:
+1. A structured outline of all pages and sections.  
+2. Recommended headings and sub‑headings for each section.  
+3. Draft website copy for each page (short but usable, not just bullet points).  
+4. Design guidance notes (colors, typography, imagery suggestions) mapped to each major section.  
+5. Example CTAs and button text throughout the site.  
+
+Make the final output clear enough that a web designer or no‑code website builder can implement it directly for **Senay Flour Factory**.
